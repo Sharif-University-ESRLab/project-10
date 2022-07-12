@@ -6,7 +6,7 @@
 
 **گزارش** <br>
 گزارش نهایی در 
-[این](https://github.com/Sharif-University-ESRLab/project-10/blob/main/Document/Report-Group-10-final.pdf) فایل قرار دارد.
+[این](https://github.com/Sharif-University-ESRLab/project-10/blob/main/Document/Report-Group-10-final_V2.pdf) فایل قرار دارد.
 
 **ویدیو** <br>
 برای دسترسی به ویدیوهای تهیه‌شده می‌توانید از 
